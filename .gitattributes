@@ -1,0 +1,20 @@
+# See GitHub's suggestion for how to handle line endings:
+#
+# https://help.github.com/articles/dealing-with-line-endings/#platform-all
+
+# By default have git handle text files in the way it thinks best
+* text=auto
+
+# Uncomment to explicitly declare files you want to be converted to
+# native line endings on checkout
+# *.c text
+# *.h text
+
+# Uncomment to declare files that should always have Windows (CRLF)
+# line endings on checkout
+# *.sln text eol=crlf
+
+# Mark all files that are binary and shouldn't be modified
+*.png binary
+*.jpg binary
+
