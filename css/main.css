@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+
+.blurb {
+  padding: 40px 15px;
+}
+
+h1 { text-align: center }
+
+/*
+ * See discussion of how to get better small caps at the following:
+ *
+ * http://usabilitypost.com/2014/05/10/using-small-caps-and-text-figures-on-the-web/
+ *
+ * Right now we're just using font-variant and the browser is likely using a font
+ * without a small caps variant, resulting in fake small caps that look a little odd.
+ */
+span.sc { font-variant: small-caps }

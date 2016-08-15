@@ -1,0 +1,31 @@
+---
+layout: default
+title: Contact Us
+---
+<div class="blurb">
+
+  <h1>{{ page.title }}</h1>
+
+  <p>{{ site.simon_speck }} are products of the <a href="https://www.nsa.gov">National Security Agency</a>'s <a href="https://www.nsa.gov/what-we-do/research/">Research Directorate</a>, produced as
+  part of our <a href="https://www.nsa.gov/what-we-do/research/ia-research/">Information Assurance research mission</a>.  Contact one of the following members of the {{ site.simon_speck }} team with
+  any questions:</p>
+
+  <table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for person in site.data.team %}
+  <tr>
+    <td>{{ person.name }}</td>
+    <td>{{ person.email }}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+  </table>
+
+</div><!-- /.blurb -->
+

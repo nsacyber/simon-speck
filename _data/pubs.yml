@@ -1,0 +1,27 @@
+- title: "The SIMON and SPECK Families of Lightweight Block Ciphers"
+  description: Original paper from June 2013 including algorithm descriptions and test vectors.
+  url: "https://eprint.iacr.org/2013/404.pdf"
+  alt_url:
+  alt_description:
+  slide_url:
+
+- title: "The SIMON and SPECK Block Ciphers on AVR 8-bit Microcontrollers"
+  description: Presented at LightSec in September 2014.
+  url: "https://eprint.iacr.org/2014/947.pdf"
+  alt_url: "https://link.springer.com/chapter/10.1007%2F978-3-319-16363-5_1"
+  alt_description: Springer proceedings
+  slide_url:
+
+- title: "The SIMON and SPECK Lightweight Block Ciphers"
+  description: Presented at the Design Automation Conference in June 2015.
+  url: "http://dx.doi.org/10.1145/2744769.2747946"
+  alt_url: "http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7167361"
+  alt_description: IEEE Xplore
+  slide_url:
+
+- title: "SIMON and SPECK: Block Ciphers for the Internet of Things"
+  description: Presented at the <a href="http://www.nist.gov/itl/csd/ct/lwc_workshop2015.cfm">NIST Lightweight Cryptography Workshop</a> in July 2015.
+  url: "https://eprint.iacr.org/2015/585.pdf"
+  alt_url: "http://csrc.nist.gov/groups/ST/lwc-workshop2015/papers/session1-shors-paper.pdf"
+  alt_description: NIST
+  slide_url: "http://csrc.nist.gov/groups/ST/lwc-workshop2015/presentations/session1-shors.pdf"

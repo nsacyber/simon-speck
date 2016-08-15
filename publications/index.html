@@ -1,0 +1,47 @@
+---
+layout: default
+title: Presentations and Papers
+---
+<div class="blurb">
+
+  <h1>{{ page.title }}</h1>
+
+  <dl>
+  {% for pub in site.data.pubs %}
+
+  {% comment %}
+  Replace SIMON and SPECK in the publication title with the small caps versions
+  {% endcomment %}
+
+  {% capture mod_title %}
+  {{ pub.title | replace: 'SIMON', '<span class="sc">Simon</span>' |
+                 replace: 'SPECK', '<span class="sc">Speck</span>' }}
+  {% endcapture %}
+
+  {% capture desc %}
+  {{ pub.description }}
+  {% if pub.alt_url and pub.alt_description %}
+  Also available at <a href="{{ pub.alt_url}}">{{ pub.alt_description }}</a>.
+  {% endif %}
+  {% if pub.slide_url %}
+  <a href="{{ pub.slide_url }}">Slides</a> available.
+  {% endif %}
+  {% endcapture %}
+
+  <dt>{{ mod_title }}</dt>
+  <dd>
+  <p>{{ pub.description }}</p>
+  <p>
+  <a class="btn btn-default btn-xs" href="{{ pub.url }}" role="button">Paper</a>
+  {% if pub.alt_url %}
+  <a class="btn btn-default btn-xs" href="{{ pub.alt_url }}" role="button">Paper mirror</a>
+  {% endif %}
+  {% if pub.slide_url %}
+  <a class="btn btn-default btn-xs" href="{{ pub.slide_url }}" role="button">Slides</a>
+  {% endif %}
+  </p>
+  </dd>
+  {% endfor %}
+  </dl>
+
+</div><!-- /.blurb -->

@@ -1,0 +1,14 @@
+# Custom variables to reduce repetition
+
+simon:       "<span class=\"sc\">Simon</span>"
+speck:       "<span class=\"sc\">Speck</span>"
+simon_speck: "<span class=\"sc\">Simon</span> and <span class=\"sc\">Speck</span>"
+
+# Exclude these files from the site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - DISCLAIMER.md
+

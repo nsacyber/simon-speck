@@ -1,0 +1,33 @@
+---
+layout: default
+title: Implementations
+---
+<div class="blurb">
+
+  <h1>{{ page.title }}</h1>
+
+  <p>The <a href="https://eprint.iacr.org/2013/404.pdf">original {{ site.simon_speck }}
+  paper</a> is the best source for algorithm descriptions and test vectors.</p>
+
+  <h2>Higher-end Software</h2>
+
+  <p>The <a href="https://github.com/iadgov/simon-speck-supercop">simon-speck-supercop</a>
+  repository includes X86 and ARM implementations using the SSE/AVX and NEON instruction sets
+  for high performance. While the implementations are structured for the <a
+  href="https://bench.cr.yp.to/supercop.html">SUPERCOP benchmarking toolkit</a>, they should be
+  adaptable to other systems.</p>
+
+  <h2>Microcontrollers</h2>
+
+  <p>The University of Luxembourg <a href="https://www.cryptolux.org/index.php/FELICS">Fair
+  Evaluation of Lightweight Cryptographic Systems (FELICS) project</a> includes our
+  contributions of a range of small and fast implementations of {{ site:simon_speck }} for the
+  8-bit AVR, 16-bit MSP430, and 32-bit Cortex-M microcontrollers.</p>
+
+  <h2>ASICs and FPGAs</h2>
+
+  <p>We have unreleased implementations of {{ site.simon_speck }} for ASICs and FPGAs that have
+  been documented in our papers. The team is glad to answer questions about ASIC and FPGA
+  implementation of the algorithms.</p>
+
+</div><!-- /.blurb -->
