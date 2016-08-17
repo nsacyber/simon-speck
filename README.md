@@ -24,6 +24,11 @@ Ciphers](https://eprint.iacr.org/2013/404.pdf)
 * [The SIMON and SPECK Lightweight Block Ciphers](http://dx.doi.org/10.1145/2744769.2747946)
   * Presented at the Design Automation Conference in June 2015
   * [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7167361)
+* SIMON and SPECK: Ciphers for Contrained Platforms
+  * Presented at the
+    [RAIN RFID](http://rainrfid.org) [June 24, 2015 Open
+    Meeting](http://rainrfid.org/resources/rain-meetings/portland-or-2015-06-24/).
+  * [Slides](http://www.rainrfid.org/wp-content/uploads/2015/07/Wingers-RAINRFID.pdf)
 * [SIMON and SPECK: Block Ciphers for the Internet of
 Things](https://eprint.iacr.org/2015/585.pdf)
   * Presented at the
