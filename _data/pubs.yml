@@ -19,6 +19,13 @@
   alt_description: IEEE Xplore
   slide_url:
 
+- title: "SIMON and SPECK: Ciphers for Constrained Platforms"
+  description: Presented at the <a href="http://rainrfid.org">RAIN RFID</a> <a href="http://rainrfid.org/resources/rain-meetings/portland-or-2015-06-24/">open meeting on June 24, 2015</a>.
+  url:
+  alt_url:
+  alt_description:
+  slide_url: "http://rainrfid.org/wp-content/uploads/2015/07/Wingers-RAINRFID.pdf"
+
 - title: "SIMON and SPECK: Block Ciphers for the Internet of Things"
   description: Presented at the <a href="http://www.nist.gov/itl/csd/ct/lwc_workshop2015.cfm">NIST Lightweight Cryptography Workshop</a> in July 2015.
   url: "https://eprint.iacr.org/2015/585.pdf"

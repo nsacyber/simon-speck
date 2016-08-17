@@ -32,7 +32,9 @@ title: Presentations and Papers
   <dd>
   <p>{{ pub.description }}</p>
   <p>
+  {% if pub.url %}
   <a class="btn btn-default btn-xs" href="{{ pub.url }}" role="button">Paper</a>
+  {% endif %}
   {% if pub.alt_url %}
   <a class="btn btn-default btn-xs" href="{{ pub.alt_url }}" role="button">Paper mirror</a>
   {% endif %}
