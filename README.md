@@ -49,7 +49,7 @@ algorithm descriptions and test vectors.
 
 The
 [simon-speck-supercop](https://github.com/iadgov/simon-speck-supercop)
-repository includes X86 and ARM implementations using the SSE/AVX and
+repository includes X86 and ARM implementations using the SSE4.2, AVX2, and
 NEON instruction sets for high performance. While the implementations
 are structured for the
 [SUPERCOP benchmarking toolkit](https://bench.cr.yp.to/supercop.html),
