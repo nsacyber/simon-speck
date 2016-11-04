@@ -21,6 +21,9 @@ Ciphers](https://eprint.iacr.org/2013/404.pdf)
   * Presented at LightSec in September 2014
   * [Springer
     proceedings](https://link.springer.com/chapter/10.1007%2F978-3-319-16363-5_1)
+* [Implementation and Performance of the SIMON and SPECK Lightweight Block
+  Ciphers on ASICs](./papers/simon-speck-asic-2014.pdf)
+  * Unpublished conference submission from Spring-Summer 2014.
 * [The SIMON and SPECK Lightweight Block Ciphers](http://dx.doi.org/10.1145/2744769.2747946)
   * Presented at the Design Automation Conference in June 2015
   * [IEEE Xplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7167361)
