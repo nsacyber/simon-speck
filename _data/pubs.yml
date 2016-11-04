@@ -12,6 +12,13 @@
   alt_description: Springer proceedings
   slide_url:
 
+- title: "Implementation and Performance of the SIMON and SPECK Lightweight Block Ciphers on ASICs"
+  description: Unpublished conference submission from Spring-Summer 2014.
+  url: "../papers/simon-speck-asic-2014.pdf"
+  alt_url:
+  alt_description:
+  slide_url:
+
 - title: "The SIMON and SPECK Lightweight Block Ciphers"
   description: Presented at the Design Automation Conference in June 2015.
   url: "http://dx.doi.org/10.1145/2744769.2747946"
