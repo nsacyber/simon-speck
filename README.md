@@ -41,11 +41,12 @@ Things](https://eprint.iacr.org/2015/585.pdf)
     and
     [Paper](http://csrc.nist.gov/groups/ST/lwc-workshop2015/papers/session1-shors-paper.pdf)
     at NIST.
-* [Algorithms to Support the Evolution of Information Assurance Needs](https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm)
+* [Algorithms to Support the Evolution of Information Assurance Needs](https://iadgov.github.io/simon-speck/papers/Algorithms-to-Support-the-Evolution-of-Information-Assurance-Needs.pdf)
   * This document provides background and insight into NSA's intentions for the
     SIMON & SPECK lightweight block ciphers, and answers frequently asked
     questions about these designs. Published November 18, 2016.
-  * [Local mirror](https://iadgov.github.io/simon-speck/papers/Algorithms-to-Support-the-Evolution-of-Information-Assurance-Needs.pdf)
+  * [Original IAD.gov location](https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm)
+    (Requires installation of DoD PKI certificate authorities)
 
 ## Implementations
 
