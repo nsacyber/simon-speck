@@ -39,3 +39,10 @@
   alt_url: "http://csrc.nist.gov/groups/ST/lwc-workshop2015/papers/session1-shors-paper.pdf"
   alt_description: NIST
   slide_url: "http://csrc.nist.gov/groups/ST/lwc-workshop2015/presentations/session1-shors.pdf"
+
+- title: "Algorithms to Support the Evolution of Information Assurance Needs"
+  description: This document provides background and insight into NSA's intentions for the <span class="sc">Simon</span> & <span class="sc">Speck</span> lightweight block ciphers, and answers frequently asked questions about these designs. Published November 18, 2016.
+  url: "https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm"
+  alt_url: "../papers/Algorithms-to-Support-the-Evolution-of-Information-Assurance-Needs.pdf"
+  alt_description: local mirror
+  slide_url:
