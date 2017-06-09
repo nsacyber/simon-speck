@@ -52,3 +52,13 @@
   alt_url:
   alt_description:
   slide_url:
+
+- title: "Notes on the Design and Analysis of SIMON and SPECK"
+  description: This document was prepared by the designers of
+               <span class="sc">Simon</span> and <span class="sc">Speck</span>
+               in order to address questions regarding the design rationale and
+               analysis of the algorithms.
+  url: "https://eprint.iacr.org/2017/560.pdf"
+  alt_url:
+  alt_description:
+  slide_url:
