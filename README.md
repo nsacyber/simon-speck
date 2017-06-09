@@ -47,6 +47,10 @@ Things](https://eprint.iacr.org/2015/585.pdf)
     questions about these designs. Published November 18, 2016.
   * [Original IAD.gov location](https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm)
     (Requires installation of DoD PKI certificate authorities)
+* [Notes on the Design and Analysis of SIMON and SPECK](https://eprint.iacr.org/2017/560.pdf)
+  * This document was prepared by the designers of SIMON and SPECK in order to
+    address questions regarding the design rationale and analysis of the
+    algorithms.
 
 ## Implementations
 
