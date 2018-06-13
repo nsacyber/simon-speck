@@ -45,9 +45,6 @@
                for the <span class="sc">Simon</span> & <span class="sc">Speck</span>
                lightweight block ciphers, and answers frequently asked questions
                about these designs.
-               <a href="https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm"">
-               The original IAD.gov source</a> (posted November 18, 2016) requires
-               installation of DoD PKI certificate authorities.
   url: "https://nsacyber.github.io/simon-speck/papers/Algorithms-to-Support-the-Evolution-of-Information-Assurance-Needs.pdf"
   alt_url:
   alt_description:
