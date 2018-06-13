@@ -45,8 +45,6 @@ Things](https://eprint.iacr.org/2015/585.pdf)
   * This document provides background and insight into NSA's intentions for the
     SIMON & SPECK lightweight block ciphers, and answers frequently asked
     questions about these designs. Published November 18, 2016.
-  * [Original IAD.gov location](https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm)
-    (Requires installation of DoD PKI certificate authorities)
 * [Notes on the Design and Analysis of SIMON and SPECK](https://eprint.iacr.org/2017/560.pdf)
   * This document was prepared by the designers of SIMON and SPECK in order to
     address questions regarding the design rationale and analysis of the
@@ -61,7 +59,7 @@ algorithm descriptions and test vectors.
 ### Higher-end Software
 
 The
-[simon-speck-supercop](https://github.com/iadgov/simon-speck-supercop)
+[simon-speck-supercop](https://github.com/nsacyber/simon-speck-supercop)
 repository includes X86 and ARM implementations using the SSE4.2, AVX2, and
 NEON instruction sets for high performance. While the implementations
 are structured for the
