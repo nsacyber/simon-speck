@@ -54,9 +54,7 @@ Things](https://eprint.iacr.org/2015/585.pdf)
 
 ## Implementations
 
-The [original SIMON and SPECK
-paper](https://eprint.iacr.org/2013/404.pdf) is the best source for
-algorithm descriptions and test vectors.
+The [implementation guide](https://nsacyber.github.io/simon-speck/implementations/ImplementationGuide.pdf) provides reference code for SIMON and SPECK(64- and 128-bit block sized variants), including code for key scheduling, encryption, and decryption. It also describes the intended word ordering, and provides detailed test vectors and useful tips for improving performance on som ARM and x86 processors.
 
 ### Higher-end Software
 
