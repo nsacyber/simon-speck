@@ -22,7 +22,7 @@ Ciphers](https://eprint.iacr.org/2013/404.pdf)
   * [Springer
     proceedings](https://link.springer.com/chapter/10.1007%2F978-3-319-16363-5_1)
 * [Implementation and Performance of the SIMON and SPECK Lightweight Block
-  Ciphers on ASICs](https://iadgov.github.io/simon-speck/papers/simon-speck-asic-2014.pdf)
+  Ciphers on ASICs](https://nsacyber.github.io/simon-speck/papers/simon-speck-asic-2014.pdf)
   * Unpublished conference submission from Spring-Summer 2014.
 * [The SIMON and SPECK Lightweight Block Ciphers](http://dx.doi.org/10.1145/2744769.2747946)
   * Presented at the Design Automation Conference in June 2015
@@ -41,12 +41,10 @@ Things](https://eprint.iacr.org/2015/585.pdf)
     and
     [Paper](http://csrc.nist.gov/groups/ST/lwc-workshop2015/papers/session1-shors-paper.pdf)
     at NIST.
-* [Algorithms to Support the Evolution of Information Assurance Needs](https://iadgov.github.io/simon-speck/papers/Algorithms-to-Support-the-Evolution-of-Information-Assurance-Needs.pdf)
+* [Algorithms to Support the Evolution of Information Assurance Needs](https://nsacyber.github.io/simon-speck/papers/Algorithms-to-Support-the-Evolution-of-Information-Assurance-Needs.pdf)
   * This document provides background and insight into NSA's intentions for the
     SIMON & SPECK lightweight block ciphers, and answers frequently asked
     questions about these designs. Published November 18, 2016.
-  * [Original IAD.gov location](https://www.iad.gov/iad/library/ia-guidance/ia-solutions-for-classified/algorithm-guidance/algorithms-support-evolution-ia-needs.cfm)
-    (Requires installation of DoD PKI certificate authorities)
 * [Notes on the Design and Analysis of SIMON and SPECK](https://eprint.iacr.org/2017/560.pdf)
   * This document was prepared by the designers of SIMON and SPECK in order to
     address questions regarding the design rationale and analysis of the
@@ -59,7 +57,7 @@ The [implementation guide](https://nsacyber.github.io/simon-speck/implementation
 ### Higher-end Software
 
 The
-[simon-speck-supercop](https://github.com/iadgov/simon-speck-supercop)
+[simon-speck-supercop](https://github.com/nsacyber/simon-speck-supercop)
 repository includes X86 and ARM implementations using the SSE4.2, AVX2, and
 NEON instruction sets for high performance. While the implementations
 are structured for the
