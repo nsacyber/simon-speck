@@ -8,16 +8,26 @@
   alt_eprint: https://eprint.iacr.org/2015/666
 
 - title: "Improved Integral Attacks on Simon32 and Simon48 with Dynamic Key-Guessing Techniques"
- authors: Z. Chu, H. Chen, X. Wang, X. Dong, and L. Li
+  authors: Z. Chu, H. Chen, X. Wang, X. Dong, and L. Li
  description:  This paper provides the best reduced-round attacks on Simon32 and Simon48 in the standard security model
- url: https://www.hindawi.com/journals/scn/2018/5160237/
+  url: https://www.hindawi.com/journals/scn/2018/5160237/
+  alt_url:
+  alt_description:
+  slide_url:
+  alt_eprint:
 
 - title: "Differential attacks on reduced Simon versions with dynamic key-guessing techniques"
- authors: N. Wang, X. Wang, K. Jia, and J. Zhao
+  authors: N. Wang, X. Wang, K. Jia, and J. Zhao
  description: This paper provides the best reduced-round attacks on Simon96 and Simon128 in the standard security model
- url: 
+  url: 
+  url:
+  alt_url:
+  alt_description:
+  slide_url:
+  alt_eprint:
 
 - title: "More to follow..."
+  authors:
   description: Bibliography
   url:
   alt_url:
