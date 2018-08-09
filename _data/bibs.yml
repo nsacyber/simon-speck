@@ -19,7 +19,6 @@
 - title: "Differential attacks on reduced Simon versions with dynamic key-guessing techniques"
   authors: N. Wang, X. Wang, K. Jia, and J. Zhao
   description: This paper provides the best reduced-round attacks on Simon96 and Simon128 in the standard security model
-  url: 
   url:
   alt_url:
   alt_description:
