@@ -7,6 +7,9 @@
 
 - title: "Improved Linear Hull Attack on Round-Reduced Simon with Dynamic Key-Guessing Techniques"
   authors: Huaifeng Chen, Xiaoyun Wang
-  description: this paper provides the best reduced-round attacks on Simon48, Simon64, Simon96, and Simon128 in the standard security model
+  description: This paper provides the best reduced-round attacks on Simon48, Simon64, Simon96, and Simon128 in the standard security model
   url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_22#citeas
+ alt_url:
+  alt_description:
+  slide_url:
   alt_eprint: https://eprint.iacr.org/2015/666
