@@ -9,6 +9,9 @@ body {
 .navbar-default {
     background-color: green;
     border-color: #d35400;
+}
+
+.navbar-default .navbar-nav > li > a {
     color: white;
 }
 
