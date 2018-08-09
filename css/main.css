@@ -8,10 +8,14 @@ body {
 
 .navbar-default {
     background-color: green;
-    border-color: #d35400;
+    border-color: black;
 }
 
 .navbar-default .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-default .navbar-brand {
     color: white;
 }
 
