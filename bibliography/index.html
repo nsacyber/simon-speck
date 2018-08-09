@@ -18,6 +18,10 @@ title: Bibliography
                  replace: 'SPECK', '<span class="sc">Speck</span>' }}
   {% endcapture %}
 
+  {% capture authors %}
+  {{ pub.authors }}
+  {% endcapture %}
+
   {% capture desc %}
   {{ pub.description }}
   {% if pub.alt_url and pub.alt_description %}
@@ -30,6 +34,7 @@ title: Bibliography
 
   <dt>{{ mod_title }}</dt>
   <dd>
+  <p>{{ pub.authors }}</p>
   <p>{{ pub.description }}</p>
   <p>
   {% if pub.url %}
@@ -41,6 +46,10 @@ title: Bibliography
   {% if pub.slide_url %}
   <a class="btn btn-default btn-xs" href="{{ pub.slide_url }}" role="button">Slides</a>
   {% endif %}
+  {% if pub.alt_eprint %}
+  <a class="btn btn-default btn-xs" href="{{ pub.alt_eprint }}" role="button">ePrint</a>
+  {% endif %}
+
   </p>
   </dd>
   {% endfor %}
