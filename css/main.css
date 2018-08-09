@@ -9,6 +9,7 @@ body {
 .navbar-default {
     background-color: #e67e22;
     border-color: #d35400;
+    color: white;
 }
 
 h1 { text-align: center }
