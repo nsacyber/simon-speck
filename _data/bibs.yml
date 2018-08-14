@@ -41,6 +41,6 @@
   alt_eprint: https://eprint.iacr.org/2015/666
 
 - title: "Improved Integral Attacks on SIMON32 and SIMON48 with Dynamic Key-Guessing Techniques"
- authors: Z. Chu, H. Chen, X. Wang, X. Dong, and L. Li
- description:  this paper provides the best reduced-round attacks on SIMON32 and SIMON48 in the standard security model
- url: https://www.hindawi.com/journals/scn/2018/5160237/
+  authors: Z. Chu, H. Chen, X. Wang, X. Dong, and L. Li
+  description:  this paper provides the best reduced-round attacks on SIMON32 and SIMON48 in the standard security model
+  url: https://www.hindawi.com/journals/scn/2018/5160237/
