@@ -57,3 +57,27 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-40367-0_24
   alt_eprint: https://eprint.iacr.org/2016/209.pdf
 
+- title: "Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver"
+  authors: H. Lee, H. Kang, D. Hong, J. Sung, and S. Hong
+  description: this paper provides the best reduced-round attacks on SPECK32 and SPECK48
+  url: http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBBHCB_2018_v28n1_15
+ 
+- title: "MILP-based automatic search algorithms for differential and linear trails for SPECK"
+  authors: Kai Fu, Meiqin Wang, Yinghua Guo, Siwei Sun, and Lei Hu
+  description: this paper provides the best reduced-round attacks on SPECK64
+  url: https://dl.acm.org/citation.cfm?id=3081650
+  alt_eprint: https://eprint.iacr.org/2016/407.pdf
+
+- title: "Automatic search of linear trails in ARX with applications to SPECK and CHASKEY"
+  authors: Yunwen Liu, Qingju Wang, and Vincent Rijmen
+  description: this paper provides the best provable bounds linear bounds through SPECK
+  url: https://link.springer.com/chapter/10.1007/978-3-319-39555-5_26
+  alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2657.pdf
+
+- title: "Improved linear cryptanalysis of reduced-round SIMON"
+  authors: Mohamed Ahmed Abdelraheem, Javad Alizadeh, Hoda A. Alkhzaimi, Mohammad Reza Aref, Nasour Bagheri, Praveen Gauravaram, and Martin M. Lauridsen
+  description: 
+  url: 
+  alt_eprint: https://eprint.iacr.org/2014/681.pdf
+
+
