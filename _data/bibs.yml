@@ -113,8 +113,7 @@
 
 - title: "Rotational-XOR cryptanalysis of reduced-round SPECK
   authors:  Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
-  description: this paper exhibits reduced-round distinguishers for the SPECK ciphers in the related-key
- and open-key model.  
+  description: this paper exhibits reduced-round distinguishers for the SPECK ciphers in the related-key and open-key model.  
   url: https://tosc.iacr.org/index.php/ToSC/article/view/764
   alt_eprint: https://eprint.iacr.org/2017/1036.pdf
 
@@ -149,6 +148,5 @@
 
 - title: "Automatic Search of Impossible Differentials and Zero-Correlation Linear Hulls for ARX Ciphers"
   authors: Kai Zhang, Jie Guan, Bin Hu
-  description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear
- hulls for SPECK
+  description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear hulls for SPECK
   url: https://ieeexplore.ieee.org/document/8300272/
