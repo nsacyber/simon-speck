@@ -111,7 +111,7 @@
   alt_eprint:
 
 - title: "Rotational-XOR cryptanalysis of reduced-round SPECK
-  authors:  Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
+  authors: Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
   description: this paper exhibits reduced-round distinguishers for the SPECK ciphers in the related-key and open-key model.  
   url: https://tosc.iacr.org/index.php/ToSC/article/view/764
   alt_eprint: https://eprint.iacr.org/2017/1036.pdf
