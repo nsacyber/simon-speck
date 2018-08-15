@@ -63,9 +63,17 @@
   alt_eprint: https://eprint.iacr.org/2014/747.pdf
 
 
-
-
 - title: "Constructing Mixed-integer Programming Models whose Feasible Region is Exactly the Set of All Valid Differential Characteristics of SIMON"
   authors: Siwei Sun, Lei Hu, Meiqin Wang, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Danping Shi, Ling Song, Kai Fu
   alt_eprint: https://eprint.iacr.org/2015/122.pdf
+
+
+- title: "Bit-based division property and application to Simon family"
+  authors: Y. Todo, M. Morii 
+  description: 
+  url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_18
+  alt_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7746&rep=rep1&type=pdf
+  alt_eprint: https://eprint.iacr.org/2016/285.pdf
+
+
 
