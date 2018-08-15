@@ -96,14 +96,8 @@
   alt_eprint: https://eprint.iacr.org/2015/666
 
 - title: "Differential-linear cryptanalysis of SIMON32/64"
-  author: Y. Chen, W. Zhang
+  authors: Y. Chen, W. Zhang
   url: https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2018.091778
-
-
-
-
-
-
 
 - title: "Impossible differential cryptanalysis of reduced round SIMON"
   authors: Zhan Chen, Ning Wang, and Xiaoyun Wang
@@ -137,6 +131,57 @@
 - title: "New integral attacks on SIMON"
   authors: K Fu, L Sun, M Wang
   url: http://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2016.0241
+
+
+
+
+
+
+
+- title: "MILP-based automatic search algorithms for differential and linear trails for SPECK"
+  authors: Kai Fu, Meiqin Wang, Yinghua Guo, Siwei Sun, and Lei Hu
+  description: this paper provides the best reduced-round attacks on SPECK64
+  url: https://dl.acm.org/citation.cfm?id=3081650
+  alt_eprint: https://eprint.iacr.org/2016/407.pdf
+
+- title: "Truncated Differential Based Known-Key Attacks on Round-Reduced Simon"
+  authors: Yonglin Hao, Willi Meier
+  url: https://link.springer.com/article/10.1007/s10623-016-0242-3
+  alt_eprint: https://eprint.iacr.org/2016/020.pdf
+
+- title: "Observations on the SIMON block cipher family"
+  authors: Stefan Kolbl, Gregor Leander, and Tyge Tiessen
+  description: this paper develops techniques to find the differential probability and linear correlation corresponding to optimal difference and linear paths
+  url: https://link.springer.com/chapter/10.1007/978-3-662-47989-6_8
+  alt_eprint: https://eprint.iacr.org/2015/145
+
+- title: "A Brief Comparison of Simon and Simeck"
+  authors: S. Kolbl, A. Roy
+  url: https://link.springer.com/chapter/10.1007/978-3-319-55714-4_6
+  slide_url: http://www2.compute.dtu.dk/~stek/assets/slides/simeck.pdf
+
+- title: "Analyzing key schedule of SIMON: Iterative key differences and application to related-key impossible differentials"
+  authors: K. Kondo, Y. Sasaki, Y. Todo, T. Iwata
+  url: https://link.springer.com/chapter/10.1007/978-3-319-64200-0_9
+
+- title: "On the Design Rationale of SIMON Block Cipher: Integral Attacks"
+  authors: K. Kondo, Y. Sasaki, Y. Todo, T. Iwata
+  url: https://www.semanticscholar.org/paper/On-the-Design-Rationale-of-Simon-Block-Cipher%3A-and-Kondo-Sasaki/f941d071840fdf16f6db77c20a9afbe1f9d3b8aa
+  alt_eprint: https://eprint.iacr.org/2016/625.pdf
+
+ - title: "Cryptanalysis of Simon et al."
+  authors: E. Lambooij
+  url: http://hideinplainsight.io/media/thesis.pdf
+
+- title: "New impossible differential characteristic of SPECK64 using MILP"
+  authors: HoChang Lee, HyungChul Kang, Deukjo Hong, Jaechul Sung, Seokhie Hong
+  description: the paper exhibits 157 6-round impossible differential characteristics for SPECK64
+  alt_eprint: https://eprint.iacr.org/2016/1137.pdf
+
+
+
+
+
 
 
 
