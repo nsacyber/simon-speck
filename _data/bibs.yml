@@ -116,9 +116,3 @@
   url: https://tosc.iacr.org/index.php/ToSC/article/view/764
   alt_eprint: https://eprint.iacr.org/2017/1036.pdf
 
-- title: "New impossible differential characteristic of SPECK64 using MILP"
-  authors: HoChang Lee, HyungChul Kang, Deukjo Hong, Jaechul Sung, Seokhie Hong
-  description: the paper exhibits 157 6-round impossible differential characteristics for SPECK64
-  url: 
-  alt_eprint: https://eprint.iacr.org/2016/1137.pdf
-
