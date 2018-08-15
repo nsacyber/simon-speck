@@ -62,6 +62,27 @@
   authors: Siwei Sun, Lei Hu, Meiqin Wang, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Danping Shi, Ling Song, Kai Fu
   alt_eprint: https://eprint.iacr.org/2014/747.pdf
 
+- title: "Constructing Mixed-integer Programming Models whose Feasible Region is Exactly the Set of All Valid Differential Characteristics of SIMON"
+  authors: Siwei Sun, Lei Hu, Meiqin Wang, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Danping Shi, Ling Song, Kai Fu
+  alt_eprint: https://eprint.iacr.org/2015/122.pdf
+
+- title: "Bit-based division property and application to Simon family"
+  authors: Y. Todo, M. Morii 
+  description: 
+  url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_18
+  alt_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7746&rep=rep1&type=pdf
+  alt_eprint: https://eprint.iacr.org/2016/285.pdf
+
+- title: "Cryptanalysis of Reduced-round SIMON32 and SIMON48"ù
+  authors: Qingju Wang, Zhiqiang Liu, Kerem Varici, Yu Sasaki, Vincent Rijmen, Yosuke Todo
+  url: https://link.springer.com/chapter/10.1007/978-3-319-13039-2_9
+  alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2505.pdf
+
+- title: "Differential attacks on reduced SIMON versions with dynamic key-guessing techniques"
+  authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
+  description: this paper provides the best reduced-round attacks on SIMON96 and SIMON128 in the standard security model
+  url: https://link.springer.com/article/10.1007%2Fs11432-017-9231-5
+  alt_eprint: https://eprint.iacr.org/2014/448.pdf
 
 
 - title: "Improved Linear Hull Attack on Round-Reduced Simon with Dynamic Key-Guessing Techniques"
@@ -82,14 +103,6 @@
   slide_url:
   alt_eprint:
 
-- title: "Differential attacks on reduced Simon versions with dynamic key-guessing techniques"
-  authors: N. Wang, X. Wang, K. Jia, and J. Zhao
-  description: This paper provides the best reduced-round attacks on Simon96 and Simon128 in the standard security model
-  url:
-  alt_url:
-  alt_description:
-  slide_url:
-  alt_eprint:
 
 - title: "Improved Linear Hull Attack on Round-Reduced SIMON with Dynamic Key-Guessing Techniques"
   authors: Huaifeng Chen, Xiaoyun Wang
@@ -107,6 +120,17 @@
   description: this paper provides the best reduced-round attacks on SIMON96 and SIMON128 in the standard security model
   url: https://link.springer.com/article/10.1007%2Fs11432-017-9231-5
   alt_eprint: https://eprint.iacr.org/2014/448.pdf
+
+- title: "Improved Differential Attacks on Reduced SIMON Versions"
+  authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
+  url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.6554&rep=rep1&type=pdf
+
+- title: "Applying MILP Method to Searching Integral Distinguishers Based on Division Property for 6 Lightweight Block Ciphers"
+  authors: Zejun Xiang, Wentao Zhang, Zhenzhen Bao, and Dongdai Lin
+  url: https://link.springer.com/chapter/10.1007/978-3-662-53887-6_24
+  alt_eprint: https://eprint.iacr.org/2016/857.pdf
+
+
 
 
 - title: "Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver"
