@@ -75,5 +75,16 @@
   alt_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7746&rep=rep1&type=pdf
   alt_eprint: https://eprint.iacr.org/2016/285.pdf
 
+- title: "Cryptanalysis of Reduced-round SIMON32 and SIMON48"ù
+  authors: Qingju Wang, Zhiqiang Liu, Kerem Varici, Yu Sasaki, Vincent Rijmen, Yosuke Todo
+  description: 
+  url: https://link.springer.com/chapter/10.1007/978-3-319-13039-2_9
+  alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2505.pdf
+
+- title: "Differential attacks on reduced SIMON versions with dynamic key-guessing techniques"
+  authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
+  description: this paper provides the best reduced-round attacks on SIMON96 and SIMON128 in the standard security model
+  url: https://link.springer.com/article/10.1007%2Fs11432-017-9231-5
+  alt_eprint: https://eprint.iacr.org/2014/448.pdf
 
 
