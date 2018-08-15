@@ -104,3 +104,45 @@
   url: https://link.springer.com/chapter/10.1007/978-3-662-47989-6_8
   alt_eprint: https://eprint.iacr.org/2015/145
 
+- title: "The distinguishing attack on Speck, Simon, Simeck, HIGHT, and LEA"
+  authors: Boris Ryabko and Aleksandr Soskov
+  description: describes a statistical method to distinguish reduced-round variants (or full round in the case of Simeck)of various ciphers, including SIMON and SPECK, from a random permutation
+
+- title: "Rotational-XOR cryptanalysis of reduced-round SPECK
+  authors:  Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
+  description: this paper exhibits reduced-round distinguishers for the SPECK ciphers in the related-key and open-key model.  
+  url: https://tosc.iacr.org/index.php/ToSC/article/view/764
+  alt_eprint: https://eprint.iacr.org/2017/1036.pdf
+
+- title: "New impossible differential characteristic of SPECK64 using MILP"
+  authors: HoChang Lee, HyungChul Kang, Deukjo Hong, Jaechul Sung, Seokhie Hong
+  description: the paper exhibits 157 6-round impossible differential characteristics for SPECK64
+  url: 
+  alt_eprint: https://eprint.iacr.org/2016/1137.pdf
+
+- title: "Detection of incompatible differential characteristics of ARX-based block cipher using MILP"
+  authors: HoChang Lee, HyungChul Kang, Bae Hong-Jin, Cheol Jae Seong, Hee Suk Hong
+  description: the paper finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
+  url: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07194102
+
+- title: "Automatic search for the best trails in ARX: Application to block cipher SPECK"
+  authors: Alex Biryukov, Vesselin Velichkov, and Yann LeCorre
+  description: this paper finds provably optimal difference paths for SPECK ciphers
+  url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_15
+  alt_eprint: https://eprint.iacr.org/2016/409.pdf
+
+- title: "Differential Analysis of Block Ciphers SIMON and SPECK"
+  authors: Alex Biryukov, Arnab Rob, and Vesselin Velichko
+  description: this paper finds differential paths and difference attacks on reduced-round versions of SIMON and SPECK
+  url: https://link.springer.com/chapter/10.1007/978-3-662-46706-0_28
+  alt_eprint: https://eprint.iacr.org/2014/922.pdf
+
+- title: "Cube Test and Analysis of SPECK Block Cipher Algorithm"
+  authors: 
+  description:
+  url: http://www.ecice06.com/EN/10.3969/j.issn.1000-3428.2016.11.025
+
+- title: "Automatic Search of Impossible Differentials and Zero-Correlation Linear Hulls for ARX Ciphers"
+  authors: Kai Zhang, Jie Guan, Bin Hu
+  description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear hulls for SPECK
+  url: https://ieeexplore.ieee.org/document/8300272/
