@@ -7,6 +7,25 @@
   slide_url:
   alt_eprint:
 
+- title: "Improved linear cryptanalysis of reduced-round SIMON"
+  authors: Mohamed Ahmed Abdelraheem, Javad Alizadeh, Hoda A. Alkhzaimi, Mohammad Reza Aref, Nasour Bagheri, Praveen Gauravaram, and Martin M. Lauridsen
+  description: 
+  url: 
+  alt_eprint: https://eprint.iacr.org/2014/681.pdf
+
+- title: "Cryptanalysis of the Speck Family of Block Ciphers"
+  authors: F. Abed, E. List, S. Lucks, J. Wenzel 
+  alt_eprint: https://eprint.iacr.org/2013/568.pdf
+
+- title: "Differential Cryptanalysis of Round-Reduced Simon and Speck"
+  authors: F. Abed, E. List, S. Lucks, J. Wenzel 
+  description: 
+  url: https://link.springer.com/chapter/10.1007/978-3-662-46706-0_27
+
+- title "Differential and Linear Cryptanalysis of Reduced-round SIMON"
+  authors: Farzaneh Abed, Eik List, Stefan Lucks, Jacob Wenzel
+  url: https://pdfs.semanticscholar.org/59c7/b77ca5ee6cd0cd7b74fe41fb8744b84025f5.pdf
+
 - title: "Detection of incompatible differential characteristics of ARX-based block cipher using MILP"
   authors: HoChang Lee, HyungChul Kang, Bae Hong-Jin, Cheol Jae Seong, Hee Suk Hong
   description: the paper finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
