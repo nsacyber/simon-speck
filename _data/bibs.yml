@@ -178,20 +178,31 @@
   description: the paper exhibits 157 6-round impossible differential characteristics for SPECK64
   alt_eprint: https://eprint.iacr.org/2016/1137.pdf
 
-
-
-
-
-
-
-
-
-
-
 - title: "Detection of incompatible differential characteristics of ARX-based block cipher using MILP"
   authors: HoChang Lee, HyungChul Kang, Bae Hong-Jin, Cheol Jae Seong, Hee Suk Hong
   description: the paper finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
   url: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07194102
+
+
+
+
+
+
+- title: "Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver"
+  authors: H. Lee, H. Kang, D. Hong, J. Sung, and S. Hong
+  description: this paper provides the best reduced-round attacks on SPECK32 and SPECK48
+  url: http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBBHCB_2018_v28n1_15
+ 
+- title: "Related-Key Linear Cryptanalysis on SIMON"
+  authors: Jung-Keun Lee, Bonwook Koo, Woo-Hwan Kim
+  url: https://www.semanticscholar.org/paper/Related-Key-Linear-Cryptanalysis-on-SIMON-Lee-Koo/6b75ed312b8661c95be6514bd52a84034758a5e7
+  alt_eprint: https://eprint.iacr.org/2018/152.pdf
+
+
+
+
+
+
 
 - title: "Rotational-XOR cryptanalysis of reduced-round SPECK"
   authors: Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
