@@ -183,11 +183,6 @@
   description: the paper finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
   url: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07194102
 
-
-
-
-
-
 - title: "Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver"
   authors: H. Lee, H. Kang, D. Hong, J. Sung, and S. Hong
   description: this paper provides the best reduced-round attacks on SPECK32 and SPECK48
@@ -197,12 +192,6 @@
   authors: Jung-Keun Lee, Bonwook Koo, Woo-Hwan Kim
   url: https://www.semanticscholar.org/paper/Related-Key-Linear-Cryptanalysis-on-SIMON-Lee-Koo/6b75ed312b8661c95be6514bd52a84034758a5e7
   alt_eprint: https://eprint.iacr.org/2018/152.pdf
-
-
-
-
-
-
 
 - title: "Rotational-XOR cryptanalysis of reduced-round SPECK"
   authors: Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
@@ -215,6 +204,48 @@
   description: this paper provides the best provable bounds linear bounds through SPECK
   url: https://link.springer.com/chapter/10.1007/978-3-319-39555-5_26
   alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2657.pdf
+
+
+
+
+
+
+
+
+
+- title: "The Security of SIMON-like Ciphers Against Linear Cryptanalysis"
+  authors: Zhengbin Liu, Yongqiang
+  url: https://www.semanticscholar.org/paper/The-Security-of-SIMON-like-Ciphers-Against-Linear-Liu-Li/b462bb995f21e295ed21ccf223e845e5174d06f0
+  alt_eprint: https://eprint.iacr.org/2017/576.pdf
+
+- title: "Optimal differential trails in simon-like ciphers"
+  authors: Z. Liu, Y. Li, M. Wang
+  url: https://tosc.iacr.org/index.php/ToSC/article/view/598
+
+- title "Cube Test and Analysis of SPECK Block Cipher Algorithm"
+  authors: Wan Liuchan, Wei Yongzhuang
+  url: www.ecice06.com/EN/10.3969/j.issn.1000-3428.2016.11.025
+
+- title: "Considerations on Differential Cryptanalysis Attacks on Lightweightblock Ciphers"
+  authors: Florin Medeleanu, Marius Rogobete, Ciprian Racuciu
+  url: https://www.anmb.ro/buletinstiintific/buletine/2015_Issue1/MES/214-215.pdf
+
+- title: "Advanced differential cryptanalysis of reduced-round SIMON64/128 using large-round statistical distinguishers"
+  authors: T. Mourouzis, G. Song, N. Courtois, M. Christofii 
+  url: http://discovery.ucl.ac.uk/1469606/
+  alt_url: http://discovery.ucl.ac.uk/1469606/1/481.pdf
+
+- title: "SIMON 32/64 and 64/128 block cipher: Study of cross correlation and linear span attack immunity"
+  authors: A.S. Omar, O. Basir 
+  url: https://ieeexplore.ieee.org/abstract/document/8292209/
+
+
+
+
+
+
+
+
 
 - title: "Algebraic Analysis of the Simon Block Cipher Family"
   authors: Havard Raddum  
