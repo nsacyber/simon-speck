@@ -329,8 +329,6 @@
 
 
 
-
-
 - title: "On the Division Property of SIMON48 and SIMON64"
   authors: Zejun Xiang, Wentao Zhang, Dongdai Lin
   url: https://www.semanticscholar.org/paper/On-the-Division-Property-of-Simon48-and-Simon64-Xiang-Zhang/7aa82bcf80da87044cc460f4659bdac2b391a87c
@@ -356,8 +354,7 @@
 
 - title: "Automatic Search of Impossible Differentials and Zero-Correlation Linear Hulls for ARX Ciphers"
   authors: Kai Zhang, Jie Guan, Bin Hu
-  description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear
-  hulls for SPECK
+  description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear hulls for SPECK
   url: https://ieeexplore.ieee.org/document/8300272/
 
 - title: "Structural evaluation for Simon-like designs against integral attack"
