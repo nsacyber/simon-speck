@@ -26,6 +26,51 @@
   authors: Farzaneh Abed, Eik List, Stefan Lucks, Jacob Wenzel
   url: https://pdfs.semanticscholar.org/59c7/b77ca5ee6cd0cd7b74fe41fb8744b84025f5.pdf
 
+
+
+- title: "Automated Dynamic Cube Attack on Block Ciphers: Cryptanalysis of SIMON and KATAN"
+  authors: Z. Ahmadian, S. Rasoolzadeh, M. Salmasizadeh, M.R. Aref
+  url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.4301&rep=rep1&type=pdf
+
+- title: "Cryptanalysis of SIMON variants with connections
+  authors: J. Alizadeh, H.A. Alkhzaimi, M.R. Aref, N. Bagheri, P. Gauravaram, A. Kumar, M. Lauridsen, S.K. Sanadhya
+  url: https://link.springer.com/chapter/10.1007/978-3-319-13066-8_6
+
+- title: "Linear Cryptanalysis of Round Reduced SIMON"
+  authors: J. Alizadeh, N. Bagheri, P. Gauravaram, A. Kumar, S.K. Sanadhya
+  url: https://pdfs.semanticscholar.org/b1e7/fa3b75a744add16fc82ba8383454f18e3b77.pdf
+  alt_eprint: https://eprint.iacr.org/2013/663.pdf
+
+- title: "Cryptanalysis of the SIMON Family of Block Ciphers"
+  authors: H. AlKhzaimi, M.M. Lauridsen
+  url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.2232&rep=rep1&type=pdf
+
+- title "Improved Linear Trails for the Block Cipher Simon"
+  authors: Tomer Ashur
+  url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
+
+- title: "Linear cryptanalysis of reduced-round SPECK"
+  authors: T. Ashur, D. Bodden 
+  url: https://www.esat.kuleuven.be/cosic/publications/article-2666.pdf
+
+- title: "Linear Cryptanalysis Using Low-bias Linear Approximations"
+  authors: Tomer Ashur, Daniel Bodden, Orr Dunkelman
+  url: https://pdfs.semanticscholar.org/f4aa/4ab3f27ec3099e4ab996b2c32581b1632d09.pdf
+
+- title: "On Linear Hulls and Trails in Simon"
+  authors: T Ashur, V Rijmen
+  url: https://pdfs.semanticscholar.org/4020/702939695d7094caadadcf5264efc99eacb8.pdf
+
+- title: "Linear Cryptanalysis of Reduced-Round SIMECK Variants"
+  authors: Nasour Bagheri
+  url: https://link.springer.com/chapter/10.1007/978-3-319-26617-6_8
+  alt_url: https://pdfs.semanticscholar.org/e0f6/19fb080569100ade107eff508680999581c5.pdf
+
+
+
+
+
+
 - title: "Detection of incompatible differential characteristics of ARX-based block cipher using MILP"
   authors: HoChang Lee, HyungChul Kang, Bae Hong-Jin, Cheol Jae Seong, Hee Suk Hong
   description: the paper finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
