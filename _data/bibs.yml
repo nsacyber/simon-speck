@@ -205,14 +205,6 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-39555-5_26
   alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2657.pdf
 
-
-
-
-
-
-
-
-
 - title: "The Security of SIMON-like Ciphers Against Linear Cryptanalysis"
   authors: Zhengbin Liu, Yongqiang
   url: https://www.semanticscholar.org/paper/The-Security-of-SIMON-like-Ciphers-Against-Linear-Liu-Li/b462bb995f21e295ed21ccf223e845e5174d06f0
@@ -239,18 +231,30 @@
   authors: A.S. Omar, O. Basir 
   url: https://ieeexplore.ieee.org/abstract/document/8292209/
 
-
-
-
-
-
-
-
-
 - title: "Algebraic Analysis of the Simon Block Cipher Family"
   authors: Havard Raddum  
   url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
   alt_url: https://www.researchgate.net/profile/Havard_Raddum/publication/283549576_Algebraic_Analysis_of_the_Simon_Block_Cipher_Family/links/598b155345851519f110e965/Algebraic-Analysis-of-the-Simon-Block-Cipher-Family.pdf
+
+
+
+
+
+
+
+- title: "Correlated Sequence Attack on Reduced-Round Simon-32/64 and Simeck-32/64"
+  authors: Raghvendra Rohit and Guang Gong
+  alt_eprint: https://eprint.iacr.org/2018/699.pdf
+
+- title: "Security Aspects of Symmetric-Key Primitives"
+  author: Arnab Roy
+  description: University of Luxembourg doctoral dissertation   
+  url: http://orbilu.uni.lu/handle/10993/18054
+
+
+
+
+
 
 - title: "The distinguishing attack on Speck, Simon, Simeck, HIGHT, and LEA"
   authors: Boris Ryabko and Aleksandr Soskov
