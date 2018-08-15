@@ -66,10 +66,6 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-26617-6_8
   alt_url: https://pdfs.semanticscholar.org/e0f6/19fb080569100ade107eff508680999581c5.pdf
 
-
-
-
-
 - title: "Automatic search for the best trails in ARX: Application to block cipher SPECK"
   authors: Alex Biryukov, Vesselin Velichkov, and Yann LeCorre
   description: this paper finds provably optimal difference paths for SPECK ciphers
@@ -104,6 +100,43 @@
   url: https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2018.091778
 
 
+
+
+
+
+
+- title: "Impossible differential cryptanalysis of reduced round SIMON"
+  authors: Zhan Chen, Ning Wang, and Xiaoyun Wang
+  description: describes reduced-round impossible differential attacks on SIMON32, SIMON48, and SIMON64
+  url: http://www.jcr.cacrnet.org.cn:8080/mmxb/EN/Y2015/V2/I6/505
+  alt_eprint: https://eprint.iacr.org/2015/286.pdf
+
+- title: "Improved Integral Attacks on SIMON32 and SIMON48 with Dynamic Key-Guessing Techniques"
+  authors: Z. Chu, H. Chen, X. Wang, X. Dong, and L. Li
+  description:  this paper provides the best reduced-round attacks on SIMON32 and SIMON48 in the standard security model
+  url: https://www.hindawi.com/journals/scn/2018/5160237/
+
+- title: "Combined Algebraic and Truncated Differential Cryptanalysis on Reduced-round SIMON"
+  authors: N. Courtois, T. Mourouzis, G. Song 
+  url: https://ieeexplore.ieee.org/abstract/document/7509516/
+   
+- title: "Predicting Outcomes of ElimLin Attack on Lightweight Block Cipher Simon"
+  authors: Nicolas T. Courtois, Pouyan Sepehrdad, Guangyan Song, Iason Papapanagiotakis-Bousy
+  url: http://discovery.ucl.ac.uk/1521419/1/Courtois_SECRYPT_2016_104.pdf
+
+- title: "Improved differential cryptanalysis of round-reduced SPECK"
+  authors: Itai Dinur
+  description: this paper shows that if there is a usable differential through r rounds of a SPECK variant using an m-word key, then there is a key recovery attack on r+m rounds
+  url: https://link.springer.com/chapter/10.1007/978-3-319-13051-4_9
+  alt_eprint: https://eprint.iacr.org/2014/320
+
+- title: "Differential distribution properties of the SIMON block cipher family"
+  authors: X. Dong, J. Guan
+  url: https://ieeexplore.ieee.org/abstract/document/7546391/
+
+- title: "New integral attacks on SIMON"
+  authors: K Fu, L Sun, M Wang
+  url: http://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2016.0241
 
 
 
