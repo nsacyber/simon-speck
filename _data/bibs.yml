@@ -107,10 +107,6 @@
 - title: "The distinguishing attack on Speck, Simon, Simeck, HIGHT, and LEA"
   authors: Boris Ryabko and Aleksandr Soskov
   description: describes a statistical method to distinguish reduced-round variants (or full round in the case of Simeck)of various ciphers, including SIMON and SPECK, from a random permutation
-
-- title: "Rotational-XOR cryptanalysis of reduced-round SPECK
-  authors:  Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
-  description: this paper exhibits reduced-round distinguishers for the SPECK ciphers in the related-key and open-key model.  
-  url: https://tosc.iacr.org/index.php/ToSC/article/view/764
-  alt_eprint: https://eprint.iacr.org/2017/1036.pdf
+  url:
+  alt_eprint:
 
