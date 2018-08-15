@@ -49,6 +49,21 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-40367-0_24
   alt_eprint: https://eprint.iacr.org/2016/209.pdf
 
+- title: "Improved Zero-Correlation Cryptanalysis on SIMON"
+  authors: Ling Sun, Kai Fu, Meiqin Wang
+  url: https://link.springer.com/chapter/10.1007/978-3-319-38898-4_8
+
+- title: "Automatic Security Evaluation and (Related-key) Differential Characteristic Search: Application to SIMON, PRESENT, LBlock, DES(L) and Other Bit-oriented Block Ciphers"
+  authors: Siwei Sun, Lei Hu, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Ling Song
+  url: https://link.springer.com/chapter/10.1007/978-3-662-45611-8_9
+  alt_eprint: https://eprint.iacr.org/2013/676.pdf
+
+- title: "Towards Finding the Best Characteristics of Some Bit-oriented Block Ciphers and Automatic Enumeration of (Related-key) Differential and Linear Characteristcs with Predefined Properties"
+  authors: Siwei Sun, Lei Hu, Meiqin Wang, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Danping Shi, Ling Song, Kai Fu
+  alt_eprint: https://eprint.iacr.org/2014/747.pdf
+
+
+
 - title: "Improved Linear Hull Attack on Round-Reduced Simon with Dynamic Key-Guessing Techniques"
   authors: Huaifeng Chen, Xiaoyun Wang
   description: This paper provides the best reduced-round attacks on Simon48, Simon64, Simon96, and Simon128 in the standard security model
@@ -134,7 +149,6 @@
   description: this paper develops techniques to find the differential probability and linear correlation corresponding to optimal difference and linear paths
   url: https://link.springer.com/chapter/10.1007/978-3-662-47989-6_8
   alt_eprint: https://eprint.iacr.org/2015/145
-
 
 
 - title: "New impossible differential characteristic of SPECK64 using MILP"
