@@ -98,6 +98,9 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-13051-4_9
   alt_eprint: https://eprint.iacr.org/2014/320
 
-
-
+- title: "Observations on the SIMON block cipher family"
+  authors: Stefan Kolbl, Gregor Leander, and Tyge Tiessen
+  description: this paper develops techniques to find the differential probability and linear correlation corresponding to optimal difference and linear paths
+  url: https://link.springer.com/chapter/10.1007/978-3-662-47989-6_8
+  alt_eprint: https://eprint.iacr.org/2015/145
 
