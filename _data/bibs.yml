@@ -70,6 +70,45 @@
 
 
 
+- title: "Automatic search for the best trails in ARX: Application to block cipher SPECK"
+  authors: Alex Biryukov, Vesselin Velichkov, and Yann LeCorre
+  description: this paper finds provably optimal difference paths for SPECK ciphers
+  url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_15
+  alt_eprint: https://eprint.iacr.org/2016/409.pdf
+
+- title: "Differential Analysis of Block Ciphers SIMON and SPECK"
+  authors: Alex Biryukov, Arnab Rob, and Vesselin Velichko
+  description: this paper finds differential paths and difference attacks on reduced-round versions of SIMON and SPECK
+  url: https://link.springer.com/chapter/10.1007/978-3-662-46706-0_28
+  alt_eprint: https://eprint.iacr.org/2014/922.pdf
+
+- title: "Pen and paper arguments for SIMON and SIMON-like designs"
+  authors: Christof Beierle
+  description:  this paper describes how to obtain bounds on the weights of optimal differential paths using computationally simple techniques
+  url: https://link.springer.com/chapter/10.1007/978-3-319-44618-9_23
+  alt_eprint: https://eprint.iacr.org/2016/651
+
+- title: "Scrutinizing and Improving Impossible Differential Attacks: Applications to CLEFIA, Camellia, LBlock and Simon"
+  authors: C. Boura, M. Naya-Plasencia, V. Suder 
+  description: 
+  url: https://link.springer.com/chapter/10.1007/978-3-662-45611-8_10
+
+- title: "Improved Linear Hull Attack on Round-Reduced SIMON with Dynamic Key-Guessing Techniques"
+  authors: Huaifeng Chen, Xiaoyun Wang
+  description: this paper provides the best reduced-round attacks on SIMON48, SIMON64, SIMON96, and SIMON128 in the standard security model
+  url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_22#citeas
+  alt_eprint: https://eprint.iacr.org/2015/666
+
+- title: "Differential-linear cryptanalysis of SIMON32/64"
+  author: Y. Chen, W. Zhang
+  url: https://www.inderscienceonline.com/doi/abs/10.1504/IJES.2018.091778
+
+
+
+
+
+
+
 
 - title: "Detection of incompatible differential characteristics of ARX-based block cipher using MILP"
   authors: HoChang Lee, HyungChul Kang, Bae Hong-Jin, Cheol Jae Seong, Hee Suk Hong
