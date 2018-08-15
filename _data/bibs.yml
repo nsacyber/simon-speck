@@ -75,7 +75,7 @@
   alt_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7746&rep=rep1&type=pdf
   alt_eprint: https://eprint.iacr.org/2016/285.pdf
 
-- title: "Cryptanalysis of Reduced-round SIMON32 and SIMON48"ù
+- title: "Cryptanalysis of Reduced-round SIMON32 and SIMON48"
   authors: Qingju Wang, Zhiqiang Liu, Kerem Varici, Yu Sasaki, Vincent Rijmen, Yosuke Todo
   description: 
   url: https://link.springer.com/chapter/10.1007/978-3-319-13039-2_9
