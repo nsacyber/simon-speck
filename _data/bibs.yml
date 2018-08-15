@@ -247,7 +247,7 @@
   alt_eprint: https://eprint.iacr.org/2018/699.pdf
 
 - title: "Security Aspects of Symmetric-Key Primitives"
-  author: Arnab Roy
+  authors: Arnab Roy
   description: University of Luxembourg doctoral dissertation   
   url: http://orbilu.uni.lu/handle/10993/18054
 
