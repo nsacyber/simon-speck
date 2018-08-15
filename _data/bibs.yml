@@ -288,19 +288,13 @@
   authors: Siwei Sun, Lei Hu, Meiqin Wang, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Danping Shi, Ling Song, Kai Fu
   alt_eprint: https://eprint.iacr.org/2014/747.pdf
 
-
 - title: "Constructing Mixed-integer Programming Models whose Feasible Region is Exactly the Set of All Valid Differential Characteristics of SIMON"
   authors: Siwei Sun, Lei Hu, Meiqin Wang, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Danping Shi, Ling Song, Kai Fu
   alt_eprint: https://eprint.iacr.org/2015/122.pdf
 
-
-
-
 - title: "Extending the applicability of the mixed-integer programming technique in automatic differential cryptanalysis"
   authors: S. Sun, L. Hu, M. Wang, Q. Yang, K. Qiao, X. Ma
   url: https://link.springer.com/chapter/10.1007/978-3-319-23318-5_8
-
-
 
 - title: "Bit-based division property and application to Simon family"
   authors: Y. Todo, M. Morii 
@@ -309,6 +303,15 @@
   alt_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7746&rep=rep1&type=pdf
   alt_eprint: https://eprint.iacr.org/2016/285.pdf
 
+
+
+- title: "Improved differential attack on 30-round SIMON64"
+  authors: G. Wang, N. Gan, Y. Li
+  url: https://link.springer.com/article/10.1007/s11859-016-1141-1
+
+
+
+
 - title: "Cryptanalysis of Reduced-round SIMON32 and SIMON48"
   authors: Qingju Wang, Zhiqiang Liu, Kerem Varici, Yu Sasaki, Vincent Rijmen, Yosuke Todo
   description: 
@@ -316,5 +319,17 @@
   alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2505.pdf
 
 
+
+
+
+- title: "Differential attacks on reduced SIMON versions with dynamic key-guessing techniques"
+  authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
+  description: this paper provides the best reduced-round attacks on SIMON96 and SIMON128 in the standard security model
+  url: https://link.springer.com/article/10.1007%2Fs11432-017-9231-5
+  alt_eprint: https://eprint.iacr.org/2014/448.pdf
+
+- title: "Improved Differential Attacks on Reduced SIMON Versions"
+  authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
+  url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.6554&rep=rep1&type=pdf
 
 
