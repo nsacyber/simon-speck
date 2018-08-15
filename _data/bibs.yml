@@ -303,24 +303,15 @@
   alt_url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.709.7746&rep=rep1&type=pdf
   alt_eprint: https://eprint.iacr.org/2016/285.pdf
 
-
-
 - title: "Improved differential attack on 30-round SIMON64"
   authors: G. Wang, N. Gan, Y. Li
   url: https://link.springer.com/article/10.1007/s11859-016-1141-1
-
-
-
 
 - title: "Cryptanalysis of Reduced-round SIMON32 and SIMON48"
   authors: Qingju Wang, Zhiqiang Liu, Kerem Varici, Yu Sasaki, Vincent Rijmen, Yosuke Todo
   description: 
   url: https://link.springer.com/chapter/10.1007/978-3-319-13039-2_9
   alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2505.pdf
-
-
-
-
 
 - title: "Differential attacks on reduced SIMON versions with dynamic key-guessing techniques"
   authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
@@ -331,5 +322,46 @@
 - title: "Improved Differential Attacks on Reduced SIMON Versions"
   authors: Ning Wang, Xiaoyun Wang, Keting Jia, and Jingyuan Zhao
   url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.435.6554&rep=rep1&type=pdf
+
+
+
+
+
+
+
+
+
+- title: "On the Division Property of SIMON48 and SIMON64"
+  authors: Zejun Xiang, Wentao Zhang, Dongdai Lin
+  url: https://www.semanticscholar.org/paper/On-the-Division-Property-of-Simon48-and-Simon64-Xiang-Zhang/7aa82bcf80da87044cc460f4659bdac2b391a87c
+  alt_eprint: https://eprint.iacr.org/2016/839.pdf
+
+- title: "Applying MILP Method to Searching Integral Distinguishers Based on Division Property for 6 Lightweight Block Ciphers"
+  authors: Zejun Xiang, Wentao Zhang, Zhenzhen Bao, and Dongdai Lin
+  url: https://link.springer.com/chapter/10.1007/978-3-662-53887-6_24
+  alt_eprint: https://eprint.iacr.org/2016/857.pdf
+
+- title: "Zero-correlation linear cryptanalysis of reduced-round SIMON"
+  authors: Wen-Ling Wu, Zhen-Qing Shi, Jian Zhang, Lei Zhang, Yan-Feng Wang
+  url: https://link.springer.com/article/10.1007/s11390-015-1603-5
+
+- title: "Automatic search for linear trails of the SPECK family"
+  authors: Y. Yao, B. Zhang, W. Wu
+  url: https://link.springer.com/chapter/10.1007/978-3-319-23318-5_9
+  slide_url: http://isc2015.item.ntnu.no/pdfs/Wed3/YUANYAO-presentation-PPT.pdf
+
+- title: "Upper bounds on the complexity of algebraic cryptanalysis of ciphers with a low multiplicative complexity"
+  authors: Pavol Zajac
+  url: https://link.springer.com/article/10.1007/s10623-016-0256-x
+
+- title: "Automatic Search of Impossible Differentials and Zero-Correlation Linear Hulls for ARX Ciphers"
+  authors: Kai Zhang, Jie Guan, Bin Hu
+  description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear
+  hulls for SPECK
+  url: https://ieeexplore.ieee.org/document/8300272/
+
+- title: "Structural evaluation for Simon-like designs against integral attack"
+  authors: H Zhang, W Wu 
+  url: https://link.springer.com/chapter/10.1007/978-3-319-49151-6_14 
 
 
