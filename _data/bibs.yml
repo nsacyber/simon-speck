@@ -131,6 +131,11 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-13051-4_9
   alt_eprint: https://eprint.iacr.org/2014/320
 
+- title: "Improved top-down techniques in differential cryptanalysis"
+  authors: I. Dinur, O. Dunkelman, M. Gutman, A. Shamir
+  url: https://link.springer.com/chapter/10.1007/978-3-319-22174-8_8
+  alt_url: https://pdfs.semanticscholar.org/f499/8257bfc0341aad57263028a2b1e9698126d3.pdf
+
 - title: "Differential distribution properties of the SIMON block cipher family"
   authors: X. Dong, J. Guan
   url: https://ieeexplore.ieee.org/abstract/document/7546391/
@@ -192,6 +197,10 @@
   authors: H. Lee, H. Kang, D. Hong, J. Sung, and S. Hong
   description: Provides the best reduced-round attacks on SPECK32 and SPECK48
   url: http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBBHCB_2018_v28n1_15
+
+- title: "Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver"
+  authors: H.C. Lee, S. Kim, H.C. Kang, D. Hong
+  url: http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBBHCB_2018_v28n1_15
  
 - title: "Related-Key Linear Cryptanalysis on SIMON"
   authors: Jung-Keun Lee, Bonwook Koo, Woo-Hwan Kim
@@ -311,6 +320,10 @@
 - title: "Extending the applicability of the mixed-integer programming technique in automatic differential cryptanalysis"
   authors: S. Sun, L. Hu, M. Wang, Q. Yang, K. Qiao, X. Ma
   url: https://link.springer.com/chapter/10.1007/978-3-319-23318-5_8
+
+- title: "Automatic Enumeration of (Related-key) Differential and Linear Characteristics with Predefined Properties and Its Applications"
+  authors: S. Sun, L. Hu, M. Wang, P. Wang, K. Qiao, X. Ma
+  url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.650.6081&rep=rep1&type=pdf
 
 - title: "Algebraic Cryptanalysis of Deterministic Symmetric Encryption"
   authors: Petr Susil
