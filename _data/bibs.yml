@@ -21,8 +21,6 @@
   authors: Farzaneh Abed, Eik List, Stefan Lucks, Jacob Wenzel
   url: https://pdfs.semanticscholar.org/59c7/b77ca5ee6cd0cd7b74fe41fb8744b84025f5.pdf
 
-
-
 - title: "Automated Dynamic Cube Attack on Block Ciphers: Cryptanalysis of SIMON and KATAN"
   authors: Z. Ahmadian, S. Rasoolzadeh, M. Salmasizadeh, M.R. Aref
   url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.691.4301&rep=rep1&type=pdf
@@ -40,6 +38,10 @@
   authors: H. AlKhzaimi, M.M. Lauridsen
   url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.2232&rep=rep1&type=pdf
 
+- title: "Block ciphers for the IoT: SIMON, SPECK, KATAN, LED, TEA, PRESENT, and SEA compared"
+  authors: Michael Appel, Andreas Bossert, Steven Cooper, Tobias Kussmaul, Johannes Loffler, Christof Pauer, Alexander Wiesmaier
+  url: https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/CDC/2016-09-05_TR_SimonSpeckKatanLedTeaPresentSea.pdf
+
 - title: "Improved Linear Trails for the Block Cipher Simon"
   authors: Tomer Ashur
   url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
@@ -55,6 +57,16 @@
 - title: "On Linear Hulls and Trails in Simon"
   authors: T Ashur, V Rijmen
   url: https://pdfs.semanticscholar.org/4020/702939695d7094caadadcf5264efc99eacb8.pdf
+
+- title: "A practical comparison between algebraic and statistical attacks on the lightweight cipher SIMON"
+  authors: B. Astrid
+  description: Uppsala University Master's Thesis
+  url: http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A892307&dswid=-9507
+
+- title: "A Salad of Block Ciphers"
+  authors: R. Avanzi
+  description: A monograph on the state of the art in block ciphers.  Includes tables of best reduced-round attacks on SIMON and SPECK.
+  alt_eprint: https://eprint.iacr.org/2016/1171.pdf
 
 - title: "Linear Cryptanalysis of Reduced-Round SIMECK Variants"
   authors: Nasour Bagheri
@@ -127,12 +139,6 @@
   authors: K Fu, L Sun, M Wang
   url: http://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2016.0241
 
-
-
-
-
-
-
 - title: "MILP-based automatic search algorithms for differential and linear trails for SPECK"
   authors: Kai Fu, Meiqin Wang, Yinghua Guo, Siwei Sun, and Lei Hu
   description: this paper provides the best reduced-round attacks on SPECK64
@@ -168,6 +174,10 @@
   authors: E. Lambooij
   url: http://hideinplainsight.io/media/thesis.pdf
 
+- title: "Insights in the SIMON Round Function"
+  authors: G. Leander, S. Kolbl, T. Tiessen
+  slide_url: https://www.cryptolux.org/mediawiki-esc2015/images/9/92/Simon_esc2015.pdf
+
 - title: "New impossible differential characteristic of SPECK64 using MILP"
   authors: HoChang Lee, HyungChul Kang, Deukjo Hong, Jaechul Sung, Seokhie Hong
   description: the paper exhibits 157 6-round impossible differential characteristics for SPECK64
@@ -187,6 +197,10 @@
   authors: Jung-Keun Lee, Bonwook Koo, Woo-Hwan Kim
   url: https://www.semanticscholar.org/paper/Related-Key-Linear-Cryptanalysis-on-SIMON-Lee-Koo/6b75ed312b8661c95be6514bd52a84034758a5e7
   alt_eprint: https://eprint.iacr.org/2018/152.pdf
+
+- title: "Linear cryptanalysis of reduced-round SPECK"
+  authors: Y. Liu, K. Fu, W. Wang, L. Sun, M. Wang
+  url: https://www.sciencedirect.com/science/article/pii/S0020019015001891
 
 - title: "Rotational-XOR cryptanalysis of reduced-round SPECK"
   authors: Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
@@ -226,6 +240,15 @@
   authors: A.S. Omar, O. Basir 
   url: https://ieeexplore.ieee.org/abstract/document/8292209/
 
+- title: "Differential Analysis on Simeck and SIMON with Dynamic Key-guessing Techniques"
+  authors: Kexin Qiao, Lei Hu, Siwei Sun
+  url: https://link.springer.com/chapter/10.1007/978-3-319-54433-5_5
+  alt_eprint: https://eprint.iacr.org/2015/902.pdf
+
+- title: "Cube and dynamic cube attacks on SIMON32/64"
+  authors: R. Rabbaninejad, Z. Ahmadian
+  url: https://ieeexplore.ieee.org/abstract/document/6994030/
+
 - title: "Algebraic Analysis of the Simon Block Cipher Family"
   authors: Havard Raddum  
   url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
@@ -246,15 +269,9 @@
   url:
   alt_eprint:
 
-
-
-
 - title: "Dual Relationship Between Impossible Differentials and Zero Correlation Linear Hulls of SIMON-Like Ciphers"
   authors: X. Shen, R. Li, B. Sun, L. Cheng, C. Li, M. Liao
   url: https://books.google.com/books?hl=en&lr=&id=GzZCDwAAQBAJ&oi=fnd&pg=PA237&dq=simon+speck+cryptanalysis&ots=OMoLFyEAuV&sig=a2w09aAsLf_afE7gF8h_wkdkMzs#v=onepage&q=simon%20speck%20cryptanalysis&f=false
-
-
-
 
 - title: "Improved linear (hull) cryptanalysis of round-reduced versions of SIMON"
   authors: D. Shi, L. Hu, S. Sun, L. Song, K. Qiao, X. Ma
@@ -274,6 +291,10 @@
   authors: Ling Sun, Kai Fu, Meiqin Wang
   url: https://link.springer.com/chapter/10.1007/978-3-319-38898-4_8
 
+- title: "MILP-Aided Bit-Based Division Property for ARX-Based Block Cipher"
+  authors: L Sun, W Wang, R Liu, M Wang
+  alt_eprint: https://eprint.iacr.org/2016/1101.pdf
+
 - title: "Automatic Security Evaluation and (Related-key) Differential Characteristic Search: Application to SIMON, PRESENT, LBlock, DES(L) and Other Bit-oriented Block Ciphers"
   authors: Siwei Sun, Lei Hu, Peng Wang, Kexin Qiao, Xiaoshuang Ma, Ling Song
   url: https://link.springer.com/chapter/10.1007/978-3-662-45611-8_9
@@ -290,6 +311,10 @@
 - title: "Extending the applicability of the mixed-integer programming technique in automatic differential cryptanalysis"
   authors: S. Sun, L. Hu, M. Wang, Q. Yang, K. Qiao, X. Ma
   url: https://link.springer.com/chapter/10.1007/978-3-319-23318-5_8
+
+- title: "Algebraic Cryptanalysis of Deterministic Symmetric Encryption"
+  authors: Petr Susil
+  url: https://infoscience.epfl.ch/record/210605/files/EPFL_TH6651.pdf
 
 - title: "Bit-based division property and application to Simon family"
   authors: Y. Todo, M. Morii 
@@ -350,47 +375,7 @@
   authors: H Zhang, W Wu 
   url: https://link.springer.com/chapter/10.1007/978-3-319-49151-6_14 
 
-- title: "A Salad of Block Ciphers"
-  authors: R. Avanzi
-  description: A monograph on the state of the art in block ciphers.  Includes tables of best reduced-round attacks on SIMON and SPECK.
-  alt_eprint: https://eprint.iacr.org/2016/1171.pdf
-
-- title: "A practical comparison between algebraic and statistical attacks on the lightweight cipher SIMON"
-  authors: B Astrid
-  description: Uppsala University Master's Thesis
-  url: http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A892307&dswid=-9507
-
-- title: "Differential Analysis on Simeck and SIMON with Dynamic Key-guessing Techniques"
-  authors: Kexin Qiao, Lei Hu, Siwei Sun
-  url: https://link.springer.com/chapter/10.1007/978-3-319-54433-5_5
-  alt_eprint: https://eprint.iacr.org/2015/902.pdf
-
-- title: "Cube and dynamic cube attacks on SIMON32/64"
-  authors: R. Rabbaninejad, Z. Ahmadian
-  url: https://ieeexplore.ieee.org/abstract/document/6994030/
-
-- title: "MILP-Aided Bit-Based Division Property for ARX-Based Block Cipher"
-  authors: L Sun, W Wang, R Liu, M Wang
-  alt_eprint: https://eprint.iacr.org/2016/1101.pdf
-
 - title: "Integral attack against bit-oriented block ciphers"
   authors: H. Zhang, W. Wu, Y. Wang
   url: https://link.springer.com/chapter/10.1007/978-3-319-30840-1_7
-
-- title: "Linear cryptanalysis of reduced-round SPECK"
-  authors: Y. Liu, K. Fu, W. Wang, L. Sun, M. Wang
-  url: https://www.sciencedirect.com/science/article/pii/S0020019015001891
-
-- title: "Block ciphers for the IoT: SIMON, SPECK, KATAN, LED, TEA, PRESENT, and SEA compared"
-  authors: Michael Appel, Andreas Bossert, Steven Cooper, Tobias Kussmaul, Johannes Loffler, Christof Pauer, Alexander Wiesmaier
-  url: https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/CDC/2016-09-05_TR_SimonSpeckKatanLedTeaPresentSea.pdf
-
-- title: "Insights in the SIMON Round Function"
-  authors: G. Leander, S. Kolbl, T. Tiessen
-  slide_url: https://www.cryptolux.org/mediawiki-esc2015/images/9/92/Simon_esc2015.pdf
-
-- title: "Algebraic Cryptanalysis of Deterministic Symmetric Encryption"
-  authors: Petr Susil
-  url: https://infoscience.epfl.ch/record/210605/files/EPFL_TH6651.pdf
-
 
