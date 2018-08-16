@@ -356,12 +356,12 @@
   description: Uppsala University Master's Thesis
   url: http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A892307&dswid=-9507
 
-- title "Differential Analysis on Simeck and SIMON with Dynamic Key-guessing Techniques"
+- title: "Differential Analysis on Simeck and SIMON with Dynamic Key-guessing Techniques"
   authors: Kexin Qiao, Lei Hu, Siwei Sun
   url: https://link.springer.com/chapter/10.1007/978-3-319-54433-5_5
   alt_eprint: https://eprint.iacr.org/2015/902.pdf
 
-- title "Cube and dynamic cube attacks on SIMON32/64"
+- title: "Cube and dynamic cube attacks on SIMON32/64"
   authors: R. Rabbaninejad, Z. Ahmadian
   url: https://ieeexplore.ieee.org/abstract/document/6994030/
 
