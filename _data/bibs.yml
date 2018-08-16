@@ -350,10 +350,12 @@
   authors: R. Avanzi
   description: A monograph on the state of the art in block ciphers.  Includes tables of best reduced-round attacks on SIMON and SPECK.
   alt_eprint: https://eprint.iacr.org/2016/1171.pdf
+
 - title: "A practical comparison between algebraic and statistical attacks on the lightweight cipher SIMON"
   authors: B Astrid
   description: Uppsala University Master's Thesis
   url: http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A892307&dswid=-9507
+
 - title "Differential Analysis on Simeck and SIMON with Dynamic Key-guessing Techniques"
   authors: Kexin Qiao, Lei Hu, Siwei Sun
   url: https://link.springer.com/chapter/10.1007/978-3-319-54433-5_5
