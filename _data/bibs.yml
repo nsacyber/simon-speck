@@ -65,7 +65,7 @@
 
 - title: "A Salad of Block Ciphers"
   authors: R. Avanzi
-  description: A monograph on the state of the art in block ciphers.  Includes tables of best reduced-round attacks on SIMON and SPECK.
+  description: A monograph on the state of the art in block ciphers.  Includes tables of best reduced-round attacks on <span class="sc">Simon</span> and <span class="sc">Speck</span>.
   alt_eprint: https://eprint.iacr.org/2016/1171.pdf
 
 - title: "Linear Cryptanalysis of Reduced-Round SIMECK Variants"
@@ -228,7 +228,7 @@
   url: https://www.semanticscholar.org/paper/The-Security-of-SIMON-like-Ciphers-Against-Linear-Liu-Li/b462bb995f21e295ed21ccf223e845e5174d06f0
   alt_eprint: https://eprint.iacr.org/2017/576.pdf
 
-- title: "Optimal differential trails in simon-like ciphers"
+- title: "Optimal differential trails in SIMON-like ciphers"
   authors: Z. Liu, Y. Li, M. Wang
   url: https://tosc.iacr.org/index.php/ToSC/article/view/598
 
