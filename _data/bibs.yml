@@ -1,6 +1,9 @@
-- title: ""
-  authors:
-  description: Below is a bibliography of papers addressing the cryptanalysis of SIMON and/or SPECK.  The list is not comprehensive; we will add additional papers as we find them. Papers on non-cryptanalytic aspects of the algorithms are not included here.  In particular, there are many papers on implementations, performance, and side-channel and fault analysis considerations that haven't been listed.
+
+- title: "Improved linear cryptanalysis of reduced-round SIMON"
+  authors: Mohamed Ahmed Abdelraheem, Javad Alizadeh, Hoda A. Alkhzaimi, Mohammad Reza Aref, Nasour Bagheri, Praveen Gauravaram, and Martin M. Lauridsen
+  description: Below is a 
+  url: 
+  alt_eprint: https://eprint.iacr.org/2014/681.pdf
 
 
 - title: "Improved linear cryptanalysis of reduced-round SIMON"
