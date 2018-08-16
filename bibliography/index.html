@@ -23,7 +23,8 @@ title: Bibliography
   {% endcapture %}
 
   {% capture desc %}
-  {{ pub.description }}
+  {{ pub.description | replace: 'SIMON', '<span class="sc">Simon</span>' |
+                 replace: 'SPECK', '<span class="sc">Speck</span>' }}
   {% if pub.alt_url and pub.alt_description %}
   Also available at <a href="{{ pub.alt_url}}">{{ pub.alt_description }}</a>.
   {% endif %}
