@@ -8,11 +8,11 @@
   url: 
   alt_eprint: https://eprint.iacr.org/2014/681.pdf
 
-- title: "Cryptanalysis of the Speck Family of Block Ciphers"
+- title: "Cryptanalysis of the SPECK Family of Block Ciphers"
   authors: F. Abed, E. List, S. Lucks, J. Wenzel 
   alt_eprint: https://eprint.iacr.org/2013/568.pdf
 
-- title: "Differential Cryptanalysis of Round-Reduced Simon and Speck"
+- title: "Differential Cryptanalysis of Round-Reduced SIMON and SPECK"
   authors: F. Abed, E. List, S. Lucks, J. Wenzel 
   description: 
   url: https://link.springer.com/chapter/10.1007/978-3-662-46706-0_27
@@ -42,7 +42,7 @@
   authors: Michael Appel, Andreas Bossert, Steven Cooper, Tobias Kussmaul, Johannes Loffler, Christof Pauer, Alexander Wiesmaier
   url: https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/CDC/2016-09-05_TR_SimonSpeckKatanLedTeaPresentSea.pdf
 
-- title: "Improved Linear Trails for the Block Cipher Simon"
+- title: "Improved Linear Trails for the Block Cipher SIMON"
   authors: Tomer Ashur
   url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
 
@@ -54,7 +54,7 @@
   authors: Tomer Ashur, Daniel Bodden, Orr Dunkelman
   url: https://pdfs.semanticscholar.org/f4aa/4ab3f27ec3099e4ab996b2c32581b1632d09.pdf
 
-- title: "On Linear Hulls and Trails in Simon"
+- title: "On Linear Hulls and Trails in SIMON"
   authors: T Ashur, V Rijmen
   url: https://pdfs.semanticscholar.org/4020/702939695d7094caadadcf5264efc99eacb8.pdf
 
@@ -91,7 +91,7 @@
   url: https://link.springer.com/chapter/10.1007/978-3-319-44618-9_23
   alt_eprint: https://eprint.iacr.org/2016/651
 
-- title: "Scrutinizing and Improving Impossible Differential Attacks: Applications to CLEFIA, Camellia, LBlock and Simon"
+- title: "Scrutinizing and Improving Impossible Differential Attacks: Applications to CLEFIA, Camellia, LBlock and SIMON"
   authors: C. Boura, M. Naya-Plasencia, V. Suder 
   description: 
   url: https://link.springer.com/chapter/10.1007/978-3-662-45611-8_10
@@ -121,7 +121,7 @@
   authors: N. Courtois, T. Mourouzis, G. Song 
   url: https://ieeexplore.ieee.org/abstract/document/7509516/
    
-- title: "Predicting Outcomes of ElimLin Attack on Lightweight Block Cipher Simon"
+- title: "Predicting Outcomes of ElimLin Attack on Lightweight Block Cipher SIMON"
   authors: Nicolas T. Courtois, Pouyan Sepehrdad, Guangyan Song, Iason Papapanagiotakis-Bousy
   url: http://discovery.ucl.ac.uk/1521419/1/Courtois_SECRYPT_2016_104.pdf
 
@@ -145,7 +145,7 @@
   url: https://dl.acm.org/citation.cfm?id=3081650
   alt_eprint: https://eprint.iacr.org/2016/407.pdf
 
-- title: "Truncated Differential Based Known-Key Attacks on Round-Reduced Simon"
+- title: "Truncated Differential Based Known-Key Attacks on Round-Reduced SIMON"
   authors: Yonglin Hao, Willi Meier
   url: https://link.springer.com/article/10.1007/s10623-016-0242-3
   alt_eprint: https://eprint.iacr.org/2016/020.pdf
@@ -156,7 +156,7 @@
   url: https://link.springer.com/chapter/10.1007/978-3-662-47989-6_8
   alt_eprint: https://eprint.iacr.org/2015/145
 
-- title: "A Brief Comparison of Simon and Simeck"
+- title: "A Brief Comparison of SIMON and Simeck"
   authors: S. Kolbl, A. Roy
   url: https://link.springer.com/chapter/10.1007/978-3-319-55714-4_6
   slide_url: http://www2.compute.dtu.dk/~stek/assets/slides/simeck.pdf
@@ -170,7 +170,7 @@
   url: https://www.semanticscholar.org/paper/On-the-Design-Rationale-of-Simon-Block-Cipher%3A-and-Kondo-Sasaki/f941d071840fdf16f6db77c20a9afbe1f9d3b8aa
   alt_eprint: https://eprint.iacr.org/2016/625.pdf
 
-- title: "Cryptanalysis of Simon et al."
+- title: "Cryptanalysis of SIMON et al."
   authors: E. Lambooij
   url: http://hideinplainsight.io/media/thesis.pdf
 
@@ -249,12 +249,12 @@
   authors: R. Rabbaninejad, Z. Ahmadian
   url: https://ieeexplore.ieee.org/abstract/document/6994030/
 
-- title: "Algebraic Analysis of the Simon Block Cipher Family"
+- title: "Algebraic Analysis of the SIMON Block Cipher Family"
   authors: Havard Raddum  
   url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
   alt_url: https://www.researchgate.net/profile/Havard_Raddum/publication/283549576_Algebraic_Analysis_of_the_Simon_Block_Cipher_Family/links/598b155345851519f110e965/Algebraic-Analysis-of-the-Simon-Block-Cipher-Family.pdf
 
-- title: "Correlated Sequence Attack on Reduced-Round Simon-32/64 and Simeck-32/64"
+- title: "Correlated Sequence Attack on Reduced-Round SIMON-32/64 and Simeck-32/64"
   authors: Raghvendra Rohit and Guang Gong
   alt_eprint: https://eprint.iacr.org/2018/699.pdf
 
@@ -263,7 +263,7 @@
   description: University of Luxembourg doctoral dissertation   
   url: http://orbilu.uni.lu/handle/10993/18054
 
-- title: "The distinguishing attack on Speck, Simon, Simeck, HIGHT, and LEA"
+- title: "The distinguishing attack on SPECK, SIMON, Simeck, HIGHT, and LEA"
   authors: Boris Ryabko and Aleksandr Soskov
   description: Describes a statistical method to distinguish reduced-round variants (or full round in the case of Simeck)of various ciphers, including SIMON and SPECK, from a random permutation
   url:
@@ -316,7 +316,7 @@
   authors: Petr Susil
   url: https://infoscience.epfl.ch/record/210605/files/EPFL_TH6651.pdf
 
-- title: "Bit-based division property and application to Simon family"
+- title: "Bit-based division property and application to SIMON family"
   authors: Y. Todo, M. Morii 
   description: 
   url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_18
@@ -371,7 +371,7 @@
   description: this paper finds thousands of 6 round impossible differentials and 44 6-round zero-correlation linear hulls for SPECK
   url: https://ieeexplore.ieee.org/document/8300272/
 
-- title: "Structural evaluation for Simon-like designs against integral attack"
+- title: "Structural evaluation for SIMON-like designs against integral attack"
   authors: H Zhang, W Wu 
   url: https://link.springer.com/chapter/10.1007/978-3-319-49151-6_14 
 
