@@ -75,19 +75,19 @@
 
 - title: "Automatic search for the best trails in ARX: Application to block cipher SPECK"
   authors: Alex Biryukov, Vesselin Velichkov, and Yann LeCorre
-  description: this paper finds provably optimal difference paths for SPECK ciphers
+  description: Finds provably optimal difference paths for SPECK ciphers
   url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_15
   alt_eprint: https://eprint.iacr.org/2016/409.pdf
 
 - title: "Differential Analysis of Block Ciphers SIMON and SPECK"
   authors: Alex Biryukov, Arnab Rob, and Vesselin Velichko
-  description: this paper finds differential paths and difference attacks on reduced-round versions of SIMON and SPECK
+  description: Differential paths and difference attacks on reduced-round versions of SIMON and SPECK
   url: https://link.springer.com/chapter/10.1007/978-3-662-46706-0_28
   alt_eprint: https://eprint.iacr.org/2014/922.pdf
 
 - title: "Pen and paper arguments for SIMON and SIMON-like designs"
   authors: Christof Beierle
-  description:  this paper describes how to obtain bounds on the weights of optimal differential paths using computationally simple techniques
+  description:  Describes how to obtain bounds on the weights of optimal differential paths using computationally simple techniques
   url: https://link.springer.com/chapter/10.1007/978-3-319-44618-9_23
   alt_eprint: https://eprint.iacr.org/2016/651
 
@@ -98,7 +98,7 @@
 
 - title: "Improved Linear Hull Attack on Round-Reduced SIMON with Dynamic Key-Guessing Techniques"
   authors: Huaifeng Chen, Xiaoyun Wang
-  description: this paper provides the best reduced-round attacks on SIMON48, SIMON64, SIMON96, and SIMON128 in the standard security model
+  description: Provides the best reduced-round attacks on SIMON48, SIMON64, SIMON96, and SIMON128 in the standard security model
   url: https://link.springer.com/chapter/10.1007/978-3-662-52993-5_22#citeas
   alt_eprint: https://eprint.iacr.org/2015/666
 
@@ -108,13 +108,13 @@
 
 - title: "Impossible differential cryptanalysis of reduced round SIMON"
   authors: Zhan Chen, Ning Wang, and Xiaoyun Wang
-  description: describes reduced-round impossible differential attacks on SIMON32, SIMON48, and SIMON64
+  description: Describes reduced-round impossible differential attacks on SIMON32, SIMON48, and SIMON64
   url: http://www.jcr.cacrnet.org.cn:8080/mmxb/EN/Y2015/V2/I6/505
   alt_eprint: https://eprint.iacr.org/2015/286.pdf
 
 - title: "Improved Integral Attacks on SIMON32 and SIMON48 with Dynamic Key-Guessing Techniques"
   authors: Z. Chu, H. Chen, X. Wang, X. Dong, and L. Li
-  description:  this paper provides the best reduced-round attacks on SIMON32 and SIMON48 in the standard security model
+  description:  Provides the best reduced-round attacks on SIMON32 and SIMON48 in the standard security model
   url: https://www.hindawi.com/journals/scn/2018/5160237/
 
 - title: "Combined Algebraic and Truncated Differential Cryptanalysis on Reduced-round SIMON"
@@ -127,7 +127,7 @@
 
 - title: "Improved differential cryptanalysis of round-reduced SPECK"
   authors: Itai Dinur
-  description: this paper shows that if there is a usable differential through r rounds of a SPECK variant using an m-word key, then there is a key recovery attack on r+m rounds
+  description: Shows that if there is a usable differential through r rounds of a SPECK variant using an m-word key, then there is a key recovery attack on r+m rounds
   url: https://link.springer.com/chapter/10.1007/978-3-319-13051-4_9
   alt_eprint: https://eprint.iacr.org/2014/320
 
@@ -141,7 +141,7 @@
 
 - title: "MILP-based automatic search algorithms for differential and linear trails for SPECK"
   authors: Kai Fu, Meiqin Wang, Yinghua Guo, Siwei Sun, and Lei Hu
-  description: this paper provides the best reduced-round attacks on SPECK64
+  description: Provides the best reduced-round attacks on SPECK64
   url: https://dl.acm.org/citation.cfm?id=3081650
   alt_eprint: https://eprint.iacr.org/2016/407.pdf
 
@@ -152,7 +152,7 @@
 
 - title: "Observations on the SIMON block cipher family"
   authors: Stefan Kolbl, Gregor Leander, and Tyge Tiessen
-  description: this paper develops techniques to find the differential probability and linear correlation corresponding to optimal difference and linear paths
+  description: Develops techniques to find the differential probability and linear correlation corresponding to optimal difference and linear paths
   url: https://link.springer.com/chapter/10.1007/978-3-662-47989-6_8
   alt_eprint: https://eprint.iacr.org/2015/145
 
@@ -180,17 +180,17 @@
 
 - title: "New impossible differential characteristic of SPECK64 using MILP"
   authors: HoChang Lee, HyungChul Kang, Deukjo Hong, Jaechul Sung, Seokhie Hong
-  description: the paper exhibits 157 6-round impossible differential characteristics for SPECK64
+  description: Exhibits 157 6-round impossible differential characteristics for SPECK64
   alt_eprint: https://eprint.iacr.org/2016/1137.pdf
 
 - title: "Detection of incompatible differential characteristics of ARX-based block cipher using MILP"
   authors: HoChang Lee, HyungChul Kang, Bae Hong-Jin, Cheol Jae Seong, Hee Suk Hong
-  description: the paper finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
+  description: Finds 7-round impossible differentials for SPECK32, SPECK48, SPECK64, SPECK96 and an 8-round impossible differential for SPECK128
   url: https://www.dbpia.co.kr/Journal/ArticleDetail/NODE07194102
 
 - title: "Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver"
   authors: H. Lee, H. Kang, D. Hong, J. Sung, and S. Hong
-  description: this paper provides the best reduced-round attacks on SPECK32 and SPECK48
+  description: Provides the best reduced-round attacks on SPECK32 and SPECK48
   url: http://koreascience.or.kr/article/ArticleFullRecord.jsp?cn=JBBHCB_2018_v28n1_15
  
 - title: "Related-Key Linear Cryptanalysis on SIMON"
@@ -204,13 +204,13 @@
 
 - title: "Rotational-XOR cryptanalysis of reduced-round SPECK"
   authors: Yunwen Liu, Glenn De Witte, Adrian Ranea, and Tomer Ashur
-  description: this paper exhibits reduced-round distinguishers for the SPECK ciphers in the related-key and open-key model.  
+  description: Exhibits reduced-round distinguishers for the SPECK ciphers in the related-key and open-key model.  
   url: https://tosc.iacr.org/index.php/ToSC/article/view/764
   alt_eprint: https://eprint.iacr.org/2017/1036.pdf
 
 - title: "Automatic search of linear trails in ARX with applications to SPECK and CHASKEY"
   authors: Yunwen Liu, Qingju Wang, and Vincent Rijmen
-  description: this paper provides the best provable bounds linear bounds through SPECK
+  description: Provides the best provable bounds linear bounds through SPECK
   url: https://link.springer.com/chapter/10.1007/978-3-319-39555-5_26
   alt_url: https://www.esat.kuleuven.be/cosic/publications/article-2657.pdf
 
@@ -265,7 +265,7 @@
 
 - title: "The distinguishing attack on Speck, Simon, Simeck, HIGHT, and LEA"
   authors: Boris Ryabko and Aleksandr Soskov
-  description: describes a statistical method to distinguish reduced-round variants (or full round in the case of Simeck)of various ciphers, including SIMON and SPECK, from a random permutation
+  description: Describes a statistical method to distinguish reduced-round variants (or full round in the case of Simeck)of various ciphers, including SIMON and SPECK, from a random permutation
   url:
   alt_eprint:
 
