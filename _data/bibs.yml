@@ -377,12 +377,12 @@
   authors: Y. Liu, K. Fu, W. Wang, L. Sun, M. Wang
   url: https://www.sciencedirect.com/science/article/pii/S0020019015001891
 
-- title: "Block ciphers for the IoT – SIMON, SPECK, KATAN, LED, TEA, PRESENT, and SEA compared"
-  authors: Michael Appel, Andreas Bossert, Steven Cooper, Tobias Kußmaul, Johannes Loffler, Christof Pauer, Alexander Wiesmaier
+- title: "Block ciphers for the IoT: SIMON, SPECK, KATAN, LED, TEA, PRESENT, and SEA compared"
+  authors: Michael Appel, Andreas Bossert, Steven Cooper, Tobias Kussmaul, Johannes Loffler, Christof Pauer, Alexander Wiesmaier
   url: https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/CDC/2016-09-05_TR_SimonSpeckKatanLedTeaPresentSea.pdf
 
 - title: "Insights in the SIMON Round Function"
-  authors: G. Leander, S. Kölbl, T. Tiessen
+  authors: G. Leander, S. Kolbl, T. Tiessen
   slide_url: https://www.cryptolux.org/mediawiki-esc2015/images/9/92/Simon_esc2015.pdf
 
 - title: "Algebraic Cryptanalysis of Deterministic Symmetric Encryption"
