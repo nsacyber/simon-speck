@@ -38,10 +38,6 @@
   authors: H. AlKhzaimi, M.M. Lauridsen
   url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.2232&rep=rep1&type=pdf
 
-- title: "Block ciphers for the IoT: SIMON, SPECK, KATAN, LED, TEA, PRESENT, and SEA compared"
-  authors: Michael Appel, Andreas Bossert, Steven Cooper, Tobias Kussmaul, Johannes Loffler, Christof Pauer, Alexander Wiesmaier
-  url: https://download.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/CDC/2016-09-05_TR_SimonSpeckKatanLedTeaPresentSea.pdf
-
 - title: "Improved Linear Trails for the Block Cipher SIMON"
   authors: Tomer Ashur
   url: https://pdfs.semanticscholar.org/c80b/b591b88d31a8f5f4768b656b2852ebb5fc7f.pdf
