@@ -1,3 +1,10 @@
+- title: "The SIMON and SPECK Information Paper"
+  description: Background and statement on ISO/IEC SC27 WG2 lightweight cryptography standard from 15 Aug 2018.
+  url: "../papers/SimonandSpeckInfoPaperFINAL.pdf"
+  alt_url:
+  alt_description:
+  slide_url:
+
 - title: "The SIMON and SPECK Families of Lightweight Block Ciphers"
   description: Original paper from June 2013 including algorithm descriptions and test vectors.
   url: "https://eprint.iacr.org/2013/404.pdf"
