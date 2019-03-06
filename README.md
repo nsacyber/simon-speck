@@ -8,7 +8,7 @@ and future platforms.
 
 This repository hosts general information about the algorithms with
 pointers to more detailed information available in other repositories
-or papers.
+or papers. The newest publication update can be found here: [SIMON and SPECK 6 Mar 2019](https://nsacyber.github.io/simon-speck/papers/SimonandSpeckInfoPaperFINAL.pdf)
 
 ## Presentations and Papers
 
